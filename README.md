@@ -8,4 +8,6 @@ Looking to connect with like-minded professionals and explore new opportunities.
 - ✉️ You can contact me at cangns229@gmail.com.
 - 👯 I’m open to collaborating on data explorations with other Data nerds.
 - ⚡ Fun fact: I've been playing piano for 14 years
--->
+
+
+
