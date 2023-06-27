@@ -11,7 +11,6 @@ As a Vietnamese man currently living in Chicago, I bring a unique blend of globa
 
 ### Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=songcangnguyen&show_icons=true" alt="songcangnguyen_GitHubStats" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songcangnguyen&layout=compact" alt="songcangnguyen_TopLangs" />
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=songcangnguyen&layout=compact" alt="songcangnguyen_StreakStats" /></p>
 
 ### How to reach me 
