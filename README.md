@@ -3,7 +3,7 @@
 As a Vietnamese man currently living in Chicago, I bring a unique blend of global perspective and cultural awareness to my work as Data Analyst. I specialize in simplifying complex data and using tools like Python, R, SQL, Excel, Tableau and Power BI to drive business insights and informed decision-making.
 - 🌍 I’m based in Chicago
 - :bookmark_tabs: My [Tableau Profile](https://public.tableau.com/app/profile/song.cang.nguyen)
-- 👯 I’m open to collaborating on data explorations with other Data nerds.
+- 👯 I’m open to collaborating on data explorations.
 - ⚡ Fun fact: I've been playing piano for 14 years
 ### Tech Stack
 
