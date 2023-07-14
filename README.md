@@ -1,6 +1,6 @@
 ## Welcome to my Github :man_technologist: **I'm Steven Nguyen** 👋
 ### About me
-As a Vietnamese man currently living in Chicago, I bring a unique blend of global perspective and cultural awareness to my work as Data Analyst. I specialize in simplifying complex data and using tools like Python, R, SQL, Excel, Tableau and Power BI to drive business insights and informed decision-making.
+[My Website](https://www.songcangnguyen.com/)
 - 🌍 I’m based in Chicago
 - :bookmark_tabs: My [Tableau Profile](https://public.tableau.com/app/profile/song.cang.nguyen)
 - 👯 I’m open to collaborating on data explorations.
