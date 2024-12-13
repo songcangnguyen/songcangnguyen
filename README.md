@@ -1,6 +1,6 @@
 ## Welcome to my Github :man_technologist: **I'm Steven Nguyen** 👋
 ### About me
-[My Website](https://www.songcangnguyen.com/)
+[My Website](https://cangns229.wixsite.com/mysite)
 - 🌍 I’m based in Chicago
 - :bookmark_tabs: My [Tableau Profile](https://public.tableau.com/app/profile/song.cang.nguyen)
 - 👯 I’m open to collaborating on data explorations.
